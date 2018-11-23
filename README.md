@@ -12,5 +12,7 @@ The CometD Demos contain:
 
 ## How to use this image
 The web server is exposed on port `8080`. To run the demos in background, use the following command.
+
 `$ docker run -d --name cometd-demos -p 8080:8080 robertmrk/dh-test`
+
 You can view the demos by visiting `http://localhost:8080`.
